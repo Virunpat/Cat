@@ -1,0 +1,32 @@
+
+.column {
+    flex:33.33%
+    padding: 60px;
+}
+.row {
+    display :flex;
+}
+
+img{
+    padding: 20px;
+
+}
+h1{
+    font-family:Cursive;
+    font-size: 80px;
+   
+}
+
+table, th, td {
+    border: 1px solid black;
+    width: 900px;
+    height: 50px;
+    font-family:Cursive;
+    font-size: 20px;
+    text-align: center;
+}
+body{
+    background-color: #646B68;
+}
+  
+  
